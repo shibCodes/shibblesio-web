@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en-au">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Siobhan "Shib" Willoughby</title>
+    <link rel="stylesheet" href="./styles.scss" />
+    <!-- Primary Meta Tags -->
+    <title>Siobhan Willoughby's Portfolio</title>
+    <meta name="title" content="Siobhan Willoughby's Portfolio" />
+    <meta name="description" content="Hi! I'm Shib and I'm a master of all things front of the front end!" />
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.shibbles.io/" />
+    <meta property="og:title" content="Siobhan Willoughby's Portfolio" />
+    <meta property="og:description" content="Hi! I'm Shib and I'm a master of all things front of the front end!" />
+    <meta property="og:image" content="./shibblesio-meta.png" />
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content="https://www.shibbles.io/" />
+    <meta property="twitter:title" content="Siobhan Willoughby's Portfolio" />
+    <meta property="twitter:description" content="Hi! I'm Shib and I'm a master of all things front of the front end!" />
+    <meta property="twitter:image" content="./shibblesio-meta.png" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./favicon-16x16.png">
+    <link rel="manifest" href="./site.webmanifest">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+</head>
+
+<body>
+    <header>
+        <div class="heading-text-wrap">
+            <h1>siobhan "shib" willoughby</h1>
+            <h2>Creative Developer</h2>
+        </div>
+    </header>
+    <section class="content">
+        <div class="content-wrap">
+            <div class="telly">
+                <div id="telly-text" class="telly-text">
+                    <div id="telly-image-wrap" class="telly-image">
+                        <img id="telly-image" class="image hide" data-project="0" src="./assets/images/projects/tv-project-0.png" />
+                        <img id="telly-image" class="image hide" data-project="1" src="./assets/images/projects/tv-project-1.png" />
+                        <img id="telly-image" class="image hide" data-project="2" src="./assets/images/projects/tv-project-2.png" />
+                        <img id="telly-image" class="image hide" data-project="3" src="./assets/images/projects/tv-project-3.png" />
+                        <img id="telly-image" class="image hide" data-project="4" src="./assets/images/projects/tv-project-4.png" />
+                        <img id="telly-image" class="image hide" data-project="5" src="./assets/images/projects/tv-project-5.png" />
+                    </div>
+                    <div id="telly-title" class="telly-title">
+                        <span id="telly-title-copy">
+                            Tap or drag a project!<br>✧・ﾟ:*(= ФェФ=)*:・ﾟ✧
+                        </span>
+                        <button id="check-it" class="butt-check-it">Tell me more!</button>
+                    </div>
+                </div>
+            </div>
+            <div id="console-cartridges-wrap" class="console-cartridges-wrap">
+                <div id="cartridges-left" class="cartridges-left"></div>
+                <div id="cartridges-right" class="cartridges-right"></div>
+                <div id="console-back" class="console console-back"></div>
+                <div id="console-front" class="console console-front"></div>
+            </div>
+        </div>
+    </section>
+    <section id="window-resizing" class="window-resizing">
+        <p>Hold ya boots!<br>I'm just resizing!</p>
+    </section>
+    <footer>
+        <div class="archive-wrap">
+            <a href="https://archive.shibbles.io/" target="_blank" title="👀 Have a peep at heaps more past projects! 👀">Portfolio Archive</a>
+        </div>
+        <div class="socials-wrap">
+            <a href="https://blog.shibbles.io/" target="_blank" title="📖 Read my blog! 📖">shibblog_</a>
+            <a href="https://hachyderm.io/@shibbles" target="_blank" title="🐘 Follow me on the elephant app! 🐘">Mastodon</a>
+        </div>
+    </footer>
+    <section id="detail-popover" class="detail-popover">
+        <div class="project-details">
+            <div id="slider" class="slider"></div>
+            <div id="project-copy" class="project-copy"></div>
+        </div>
+        <button id="close-details" class="butt-close-details">Close</button>
+    </section>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.4/Draggable.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+    <script src="scripts.js"></script>
+</body>
+
+</html>

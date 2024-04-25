@@ -1,0 +1,260 @@
+[
+    {
+        "id": 0,
+        "title": "About Shib",
+        "shortie": "Hi! I'm Shib and I'm a master of all things front of the front end!",
+        "description": "<h3>Hey, there!</h3><p>I'm <strong>Shib</strong> and I'm a master of all things <strong>front of the front end</strong>!</p><p>I've been professionally <strong>designing</strong> and <strong>building</strong> pretty <strong>websites</strong> and <strong>apps</strong> for the past 15 years! I've worked solo, on teams, and lead teams as well!</p><p>On the <strong>design</strong> side I'm pretty great at UX/UI, wireframing, mockups, prototyping, and making things pretty! My design software of choice is currently Figma!</p><p>On the <strong>development</strong> side I'm fab at HTML, CSS (SCSS!), Javascript (and Typescript!). My framework of choice is Angular but for smaller sites nothing beats the speed and accessibility of vanilla everything (like this site!).</p><p>I'm currently building a game in <strong>Godot</strong> called <strong>Tea, Please!</strong>, which is funded by <strong>Screen Australia</strong>!</p>",
+        "active": false,
+        "x": 0,
+        "y": 0,
+        "slides": false
+    },
+    {
+        "id": 1,
+        "title": "Tea, Please!",
+        "shortie": "Solo developing a narrative game funded by Screen Australia",
+        "description": "<a href='https://teapleasegame.com/' target='_blank'><h3>Tea, Please!</h3></a><p>A short story-driven game from solo developer Siobhan Willoughby that explores the contrast between the drudgery and noise of office life and the surprising happiness and peace gained through remote work during lockdown. This is expressed through handcrafted interactive life vignettes punctuated with the simple action of making tea.</p><p>Funded by <a href='https://www.screenaustralia.gov.au/sa/media-centre/news/2024/03-21-over-one-million-for-games-industry' target='_blank' title='Screen Australia Media Release'><strong>Screen Australia</strong></a></p><p>Designed with: Figma, Procreate</p><p>Built with: Godot</p>",
+        "active": false,
+        "x": 0,
+        "y": 0,
+        "slides": [
+            {
+                "src": "project-tp-01.png",
+                "alt": "A slide showcasing the Tea, Please! game. There is a Tea, Please! heading written in red with a tea cup and a jug on either side of the heading. Underneath are 6 mobile phone screens showing 6 game screens. Two screens are comics and the rest show game play. These are the Begin screen, a mini-game called 'make 10', a mini game called 'fill the kettle', and a mini game called 'make tea'.",
+                "video": false
+            },
+            {
+                "src": "tp-video.mp4",
+                "video": true
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Journey Into",
+        "shortie": "A web-based game providing unique and engaging educational journeys for students across Australia",
+        "description": "<a href='https://journeyinto.com.au/' target='_blank'><h3>Journey Into</h3></a><p>A web based game providing unique and engaging educational journeys for students across Australia.</p><p>I was brought on as one of the founding members of the Journey Into startup to design and build the Journey Into platform. I've created the brand identity, game UI and artwork, as well as architected and built the front end UI. The game is still in development and due to launch its beta phase in 2024.</p><p>Designed with: Figma</p><p>Built with: HTML, CSS, Typescript, Angular</p>",
+        "active": false,
+        "x": 0,
+        "y": 0,
+        "slides": [
+            {
+                "src": "whoarewe-landscape-720.mp4",
+                "video": true
+            },
+            {
+                "src": "project-ji-image01.png",
+                "alt": "A screenshot showing a 3D bedroom with super cute furniture inside of it!",
+                "video": false
+            },
+            {
+                "src": "project-ji-image04.png",
+                "alt": "A screenshot showing a tablet overlayed over the 3D bedroom scene. The tablet is showing the home screen with many different apps to choose from.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image02.png",
+                "alt": "A screenshot showing a tablet overlayed over the 3D bedroom scene. The tablet is showing the 'Journeys' app with many different journeys to choose from.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image03.png",
+                "alt": "A screenshot showing a tablet overlayed over the 3D bedroom scene. The tablet is showing the 'Buy-Em!' app with many different items to choose from.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image05.png",
+                "alt": "A screenshot showing a 3D bedroom with super cute furniture inside of it! The scene is in 'Edit Mode' which lets users move furniture around.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image06.png",
+                "alt": "A screenshot showing a map overlayed over the 3D bedroom scene. The map shows various journeys the user can choose to go on.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image07.png",
+                "alt": "A screenshot showing a multiple choice question with 4 options.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image08.png",
+                "alt": "A screenshot showing a fill in the blank question with drag and drop options.",
+                "video": false
+            },
+            {
+                "src": "project-ji-image09.png",
+                "alt": "A screenshot showing a missing maths fact question.",
+                "video": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Never Never Gin",
+        "shortie": "Never Never Gin Website redesign",
+        "description": "<a href='https://neverneverdistilling.com.au/' target='_blank'><h3>Never Never Gin Website</h3></a><p><em>“Not only did Miroma Project Factory deliver a beautiful website, but a highly functional and customisable site, with a user experience that encourages discovery and exploration” - Never Never Distilling Co</em></p><p>Never Never Distilling Co wanted a new website to suit their growing brand and help aid discovery of their products.</p><p>I was tasked with designing a completely new website experience that took into account the UX pain points with their existing website and fixing them to create a seamless flow that allowed for discovery from landing to product purchase.</p><p>Designed with: Figma</p>",
+        "active": false,
+        "x": 0,
+        "y": 0,
+        "slides": [
+            {
+                "src": "project-nng-image01.png",
+                "alt": "A screenshot showing the Never Never Gin landing page with two call to action buttons - 'Shop' and 'Visit'.",
+                "video": false
+            },
+            {
+                "src": "project-nng-image02.png",
+                "alt": "A screenshow showing a product slideshow on the home page.",
+                "video": false
+            },
+            {
+                "src": "project-nng-image03.png",
+                "alt": "A screenshot showing the menu of the website.",
+                "video": false
+            },
+            {
+                "src": "project-nng-image04.png",
+                "alt": "A screenshot showing the product page.",
+                "video": false
+            },
+            {
+                "src": "project-nng-image06.png",
+                "alt": "A screenshot of a blog post.",
+                "video": false
+            },
+            {
+                "src": "project-nng-image07.png",
+                "alt": "A screenshot of the cocktail recipes page.",
+                "video": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Liv App",
+        "shortie": "An app to help people living with dementia to stay at home longer",
+        "description": "<a href='https://www.livtheapp.com/' target='_blank'><h3>Liv the App</h3></a><p>The LIV app helps people living with dementia to stay at home longer by providing information, resources, local services, social connections and a way to keep in touch - or reach out - to friends and family.</p><p>I was brought onto the project initially to overhaul the design / UX and develop a design system. I stayed on the project until completion, developing prototypes, listening to client / end user feedback to develop new design / solutions, as well as building out the web app.</p><p>Designed with: Figma</p><p>Built with: Angular",
+        "active": false,
+        "x": 0,
+        "y": 0,
+        "slides": [
+            {
+                "src": "project-liv-image01.png",
+                "alt": "A screenshot of the landing page of the app with three call to action buttons - 'Login', 'Register', and 'Enter with Code'.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image02.png",
+                "alt": "A screenshot of the messaging feature in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image03.png",
+                "alt": "A screenshot of the services page in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image04.png",
+                "alt": "A screenshot of the resources page in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image05.png",
+                "alt": "A screenshot of the carers forum in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image06.png",
+                "alt": "A screenshot of the journal in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image07.png",
+                "alt": "A screenshot of the first visit to the carers forum.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image08.png",
+                "alt": "A screenshot of the first visit to the journal.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image09.png",
+                "alt": "A screenshot of the first visit to the messaging feature.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image10.png",
+                "alt": "A screenshot of creating / editing a task in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image11.png",
+                "alt": "A screenshot of the tasks feature in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image12.png",
+                "alt": "A screenshot of the first visit to the tasks feature.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image13.png",
+                "alt": "A screenshot of the care circle in the app with a person highlighted to see their details.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image14.png",
+                "alt": "A screenshot of the care circle in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image15.png",
+                "alt": "A screenshot of the dashboard in the app.",
+                "video": false
+            },
+            {
+                "src": "project-liv-image16.png",
+                "alt": "A screenshot of the first visit to the dashboard.",
+                "video": false
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "MyWay Employability",
+        "shortie": "A platform for the autistic community to support and manage their transition into working life.",
+        "description": "<a href='https://mywayemployability.au/' target='_blank'><h3>myWAY Employability</h3></a><p>myWAY Employability is a personalised digital platform built for members of the autistic community to use to support and manage their transition into working life.</p><p>I was the lead developer on the project, architecting and building the solution, and creating fun UI interactions in order to engage users.</p><p>Built with: HTML5, SCSS, Javascript, PHP, Drupal 8</p>",
+        "active": false,
+        "x": 0,
+        "y": 0,
+        "slides": [
+            {
+                "src": "myway-01.png",
+                "alt": "A screenshot of the home page.",
+                "video": false
+            },
+            {
+                "src": "myway-02.png",
+                "alt": "A screenshot of a drag and drop question where users had to drag each option onto a line.",
+                "video": false
+            },
+            {
+                "src": "myway-03.png",
+                "alt": "A screenshot of a multiple choice question.",
+                "video": false
+            },
+            {
+                "src": "myway-04.png",
+                "alt": "A screenshot of another type of multiple choice question.",
+                "video": false
+            },
+            {
+                "src": "myway-05.png",
+                "alt": "A screenshot of the resources page.",
+                "video": false
+            }
+        ]
+    }
+]
